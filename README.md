@@ -70,4 +70,4 @@ you can also use
     you can also add custom PORT and session SECRET if u are intrested
 4. Now run the app.js file by using commands `nodemon app.js` or `node app.js` or `npm run start`
 ## Credits
-* This app is the capstone project of [Colt Steele](https://github.com/Colt)'s course: [The Web Developer Bootcamp 2021](https://github.com/Colt/YelpCamp). Thanks for his creation of such a great course with comprehensive knowledge and this wonderful project.
+* This app is an extension of the capstone project of [Colt Steele](https://github.com/Colt)'s course: [The Web Developer Bootcamp 2021](https://github.com/Colt/YelpCamp). Thanks for his creation of such a great course with comprehensive knowledge and this wonderful project.
