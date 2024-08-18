@@ -55,7 +55,7 @@ you can also use
 * Render: for deploying the website
 
 #### Used many concepts like MVC architechture , cookie - parsing , sessions , authentication , authorization ,RESTful routing techniques , Apis and many more.....
-#### U can also use Hoppscotch or postman for this website.
+#### U can also use Hoppscotch or postman for checking this website.
 ## How to Install and Run the Project Locally
 
 1. Clone the repository from GitHub.
